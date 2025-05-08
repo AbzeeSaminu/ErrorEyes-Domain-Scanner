@@ -14,7 +14,7 @@
 # Installation
 
 ```
-git clone https://github.com/AbzeeSaminu/ErrorEyes.git
+git clone https://github.com/AbzeeSaminu/ErrorEyes-Domain-Scanner
 cd erroreyes
 pip install requests
 ```
