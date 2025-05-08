@@ -4,8 +4,11 @@
 # Features
 
 ✔ Fetches subdomains from crt.sh (public SSL certificate logs)
+
 ✔ Filters and validates domains (removes noise, checks syntax)
+
 ✔ Saves results to domain.txt (easy for further analysis)
+
 ✔ Lightweight, no API keys required
 
 # Installation
